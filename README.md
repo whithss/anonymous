@@ -47,6 +47,6 @@ Usar e-mails privados é outro fator que impede o uso não rastreável da Intern
 Sendo assim, optar por usar provedores de e-mails anônimos, como ProtonMail e Cyber Atlantis, pode ser interessante para preservar a privacidade na Internet. Além de auxiliarem na proteção do IP do usuário ao criptografar o endereço de e-mail sempre que uma mensagem é enviada, eles possibilitam que mensagens e publicidades indesejáveis sejam bloqueadas e evitam a chegada de spam.
 
 
-### Se você cumprir todos esses passos se tornará "irrastreável"
+Se você cumprir todos esses passos se tornará "irrastreável"
 
-# desenvolvido e escrito por: [WHITE HORSE](https://github.com/Whithss/)
+## desenvolvido e escrito por: [WHITE HORSE](https://github.com/Whithss/)
