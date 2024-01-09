@@ -49,4 +49,4 @@ Sendo assim, optar por usar provedores de e-mails anônimos, como ProtonMail e C
 
 Se você cumprir todos esses passos se tornará "irrastreável"
 
-## desenvolvido e escrito por: [WHITE HORSE](https://github.com/Whithss/)
+## Escrito Por: [WHITE HORSE](https://github.com/Whithss/)
